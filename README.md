@@ -1,0 +1,2 @@
+# Financial-Planning
+Create a personal finance planner for a Credit Union, with each member averaging $12,000 in household income. Then use "Requests" to get data from the Alpaca API and calculate the investments for the credit union. After creating a DataFrame with the portfolio information, run a Monte Carlo simulation for 5, 10 and 30 years and simulate the best possibilities to achieving the financial goal of retirement. 
